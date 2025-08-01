@@ -10,14 +10,14 @@
             background-color: #4CAF50;
             color: white;
             border: none;
-            border-radius: 4px;
-            font-size: 16px;
+            border_radius: 4px;
+            font_size: 16px;
             cursor: pointer;
-            transition: background-color 0.3s;
+            transition: background_color 0.3s;
         }
         
         #screenSizeBtn:hover {
-            background-color: #45a049;
+            background_color: #45a049;
         }
     </style>
 </head>
